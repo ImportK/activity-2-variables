@@ -1,10 +1,10 @@
-//  Storing data in variables.
+//  Store data in variables.
 let name = "Kaye Janine M. Remigio";
 let whatDoYouWannaBecomeInYourLife = "programmer";
 let gender = "female";
 let twitterHandle = "@kayEthereal";
 
-// Logging all the variables to the console.
+// Log all the variables to the console.
 console.log("Name: " + name);
 console.log("What do you wanna become in your life? " + whatDoYouWannaBecomeInYourLife);
 console.log("Gender: " + gender);

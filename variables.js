@@ -8,4 +8,4 @@ let twitterHandle = "@kayEthereal";
 console.log("Name: " + name);
 console.log("What do you wanna become in your life? " + whatDoYouWannaBecomeInYourLife);
 console.log("Gender: " + gender);
-console.log("twitterHandle: " + twitterHandle)
+console.log("twitterHandle: " + twitterHandle);
